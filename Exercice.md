@@ -2,18 +2,18 @@
 
 ## Lancer le projet
 
-[] Forker le projet
-[] Installer les dépendances 
-[] Lancer le projet en mode dev et vérifier son fonctionnement 
+[X] Forker le projet
+[x] Installer les dépendances 
+[x] Lancer le projet en mode dev et vérifier son fonctionnement 
 
 ## Creation d'un workflow
 
 Créer un workflow github action qui :
 
-[ ] Run le linter
-[ ] Build le dossier de prod (Dossier dist)
-[ ] Recupère le dossier dist 
-[ ] Deploie les sources sur une Github page
+[x] Run le linter
+[x] Build le dossier de prod (Dossier dist)
+[x] Recupère le dossier dist 
+[x] Deploie les sources sur une Github page
 
 ## Tips
 
